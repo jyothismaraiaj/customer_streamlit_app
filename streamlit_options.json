@@ -1,0 +1,51 @@
+{
+    "slider_fields": {
+      "age": [
+        0,
+        120
+      ],
+      "work_experience": [
+        0,
+        60
+      ],
+      "family_size": [
+        1,
+        20
+      ],
+      "var_1": [
+        0,
+        6
+      ]
+    },
+    "single_select_fields": {
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "ever_married": [
+        "Yes",
+        "No"
+      ],
+      "graduated": [
+        "Yes",
+        "No"
+      ],
+      "profession": [
+        "Artist",
+        "Healthcare",
+        "Entertainment",
+        "Doctor",
+        "Engineer",
+        "Executive",
+        "Lawyer",
+        "Marketing",
+        "Homemaker"
+      ],
+      "spending_score": [
+        "Low",
+        "Average",
+        "High"
+      ]
+
+    }
+  }
