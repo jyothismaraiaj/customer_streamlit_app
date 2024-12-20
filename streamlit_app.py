@@ -5,7 +5,7 @@ import requests
 
 user_options = {}
 
-st.title('Customer Categorization to performed segmented outreach and communication for each segment of customers')
+st.title('Customer Categorization to perform segmented outreach and communication for each segment of customers')
 
 streamlit_options = json.load(open("streamlit_options.json"))
 for field_name, range in streamlit_options["slider_fields"].items():
